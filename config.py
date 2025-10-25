@@ -1,0 +1,7 @@
+# config.py
+
+API_ID = 29787074
+API_HASH = "b559ef4d37543417bdc4fb64fd50ff40"
+PHONE = "+380998627460"
+SESSION_NAME = 'user_auto_replier' 
+AUTO_REPLY_MESSAGE = "Тест"
